@@ -17,5 +17,7 @@
 *  El error en este caso, sería: failed to push some refs to remote.
 *  Este error lo solucionaremos con la introducción del comando **git merge master** mediante el cual nos dara la opcion de merge by recursive strategy presionando :qa. 
 *  Mediante este comando, podemos finalmente subir los cambios realizados en el repositorio local al remoto mediante el uso de **git push + [Link a github] Head:master**
-# Cuarto paso
+
+
+[Link a github](https://github.com/marcusskelly/Git-tags-y-versiones)
 
